@@ -1,0 +1,1 @@
+Go runs faster then interpreted languages , and compiles fater then compiled languages
